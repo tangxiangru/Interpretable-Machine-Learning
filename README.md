@@ -1,4 +1,4 @@
-#ACL 2018
+# ACL 2018
 
 Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation. Tiancheng Zhao, Kyusong Lee, Maxine Eskenazi.
 
@@ -10,7 +10,7 @@ Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dy
 
 Automatic Estimation of Simultaneous Interpreter Performance. Craig Stewart, Nikolai Vogler, Junjie Hu, Jordan Boyd-Graber, Graham Neubig.
 
-#ACL 2017
+# ACL 2017
 
 An Interpretable Knowledge Transfer Model for Knowledge Base Completion Qizhe Xie, Xuezhe Ma, Zihang Dai and Eduard Hovy
 
@@ -18,14 +18,14 @@ Sarcasm SIGN: Interpreting Sarcasm with Sentiment Based Monolingual Machine Tran
 
 Information-Theory Interpretation of the Skip-Gram Negative-Sampling Objective Function Oren Melamud and Jacob Goldberger
 
-#ICLR 2018
+# ICLR 2018
 
 Hierarchical and Interpretable Skill Acquisition in Multi-task 
 
 Reinforcement Learning
 Interpretable Counting for Visual Question Answering
 
-#ICML 2018
+# ICML 2018
 
 Varia onal Bayes and Beyond:Bayesian Inference for Big DataTamara Broderick (MIT)
 Loca on: Victoria
@@ -50,7 +50,7 @@ Samuel Ainsworth, Nick J Fo , Adrian KC Lee, Emily Fox
 Fairness, Interpretability, and Explainability Federa on of Workshops
 
 
-#NeurIPS 2018
+# NeurIPS 2018
 
 Towards Robust Interpretability with Self-Explaining Neural Networks
 
